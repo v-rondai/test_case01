@@ -13,4 +13,13 @@ Ronghui also trying to create a remote repository and push somthing to it.
 I'm try to create a new branch.
 It's so quick.
 ...light speed...
+ronghui trying to save conflict issue1 from sub branch.
+go ahead...
+ronghui did another resting from sub branch....
+
+wow 
+wow
+i
+w
+s
 
