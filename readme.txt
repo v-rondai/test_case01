@@ -22,5 +22,4 @@ wow
 i
 w
 s
-This is last one line from master branch.
-
+This is the last one line. updated by ronghui 2017/07/06
