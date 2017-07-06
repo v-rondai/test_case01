@@ -24,3 +24,5 @@ w
 s
 This is the last one line. updated by ronghui 2017/07/06
 This is for branch management testing
+This is to testing bug branch.
+
